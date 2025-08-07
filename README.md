@@ -2,6 +2,9 @@
 
 This project is an AI-powered tool that transforms any uploaded image into a descriptive short story and then converts that story into a spoken audio file. It leverages a multi-step pipeline of advanced AI models to analyze the image, generate a creative narrative, and synthesize a voice to read it aloud.
 
+Paid: Use OpenAi API key for speech generation
+Free: Use Groq API key for short story generation. Audio generation is not supported for Groq. 
+
 The application is built with a user-friendly interface using Streamlit.
 
 ![Demo Screenshot](https://i.imgur.com/vHqY7tC.png)
